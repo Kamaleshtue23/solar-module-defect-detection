@@ -1,0 +1,8 @@
+Class,Desc,Color,Red,Green,Blue,Label,Gray,Weight
+Feature,background,Black,0,0,0,0,0.0,1
+Feature,Background,Maroon,128,0,0,1,38.2,1
+Defect,Crack,Green,0,128,0,2,75.1,0.1
+Defect,Inactive Areas,Olive,128,128,0,3,150.2,0.1
+Defect,Shunt Error,Navy Blue,0,0,128,4,14.6,0.6
+Feature,Ribbons,Purple,128,0,128,5,54.4,1
+Defect,Gridline Defect,Teal,0,128,128,6,89.8,0.6
